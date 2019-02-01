@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently a senior majoring in Computer Science and Biology. I'm from Cupertino, California (if you have an iPhone you probably know where that is) and I like Cheez-It's.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
