@@ -22,4 +22,5 @@ Replace the first row with your contribution.
 |---|:---|:---|:---| 
 |  2   | [link](https://github.com/nyu-ossd-s19/andreawaxman-weekly/issues/2)    |   Blog  |   Identified a broken link    |
 |  2   | [link](https://github.com/nyu-ossd-s19/TiaraIsTan-weekly/issues/2)  	 |   Blog  |   Broken email link   |
-|     |     |     |      |
+|  9   | [link](https://en.wikipedia.org/wiki/Silvio_Dante#Plot_details)    |   Wikipedia edit  |   Added relevant link to episode being mentioned   |
+
